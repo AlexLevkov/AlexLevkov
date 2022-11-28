@@ -1,10 +1,6 @@
 <h1 align="left">Hi 👋, I'm Alex</h1>
 <h3 align="left">I am a Full Stack Web Developer with expertise in HTML, CSS, JavaScript, Vue, React, Node.js and MongoDB. A team player, responsible and autodidact. I am eager to contribute my abilities to an innovative software development company and demonstrate my skill set through challenging projects.</h3>
 
-- 🔭 I’m currently working on **Weight Win**
-
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **alexlevkov87@gmail.com**
 
 - ⚡ Fun fact **I am a chess player**
